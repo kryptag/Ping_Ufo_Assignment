@@ -21,9 +21,9 @@ We ran each IP through: https://www.iplocation.net/ to get the physical location
 
 Then we need the distance from our location in Kongens Lyngby, Denmark to each of the three locations.
 
-From Kongens Lyngby to Singapore there is 9977.28 km.
-From Kongens Lyngby to Clifton there is 6184.19 km.
-From Kongens Lyngby to Frankfurt am Main there is 679.00 km.
+- From Kongens Lyngby to Singapore there is 9977.28 km.
+- From Kongens Lyngby to Clifton there is 6184.19 km.
+- From Kongens Lyngby to Frankfurt am Main there is 679.00 km.
 
 From our problem statement we then expect the response times to the server located in Frankfurt to be the fastest, and the ones to Singapore the slowest.
 
@@ -61,10 +61,10 @@ To find out, we simply divided the ping times in milliseconds with the distance 
 Additionally we did a similar test to a Danish server located 18,36 km from the school to see if it was a linear relation.
 
 From Kongens Lyngby (School network)
-Singapore: 282.793ms / 9977.28km = 0.02834369687 ms/km
-Clifton: 95.166ms / 6184.19km = 0.01538859575 ms/km
-Frankfurt am Main: 17.820ms / 679.00km = 0.0262444771 ms/km
-Taarnby, Denmark: 6,020ms / 18,36km = 0.32788671024 ms/km
+- Singapore: 282.793ms / 9977.28km = 0.02834369687 ms/km
+- Clifton: 95.166ms / 6184.19km = 0.01538859575 ms/km
+- Frankfurt am Main: 17.820ms / 679.00km = 0.0262444771 ms/km
+- Taarnby, Denmark: 6,020ms / 18,36km = 0.32788671024 ms/km
 
 As we can see, the relation here is not linear at all. If it was linear, the ms/km would be close to identical for all the servers. 
 
