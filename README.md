@@ -32,10 +32,10 @@ To do this, we made a small Java program that pings each of these three servers 
 The code for executing the experiment can be found in this repository. 
 
 The experiment is performed on a Macbook Pro from 15 with the following specs:
-![Macbook pro specs](https://github.com/rawimage.png)
+![Macbook pro specs](https://github.com/kryptag/Ping_Ufo_Assignment/blob/master/specs.png?raw=true)
 
 And with the following internet connection from CPHBusiness in Kongens Lyngby:
-![Internet connection](https://github.com/rawimage.png)
+![Internet connection](https://github.com/kryptag/Ping_Ufo_Assignment/blob/master/internet-connection.png?raw=true)
 
 ## The experiment
 To execute the experiment, you will need Java 8 installed on your machine, and a Java IDE and you have to be able to execute the ping command to these three servers from your terminal.
@@ -49,7 +49,7 @@ The results should now be presented for you.
 We chose to execute a ping to each of these servers 100 times to get an average.
 
 Results from school:
-![Results](https://github.com/rawimage.png)
+![Results](https://github.com/kryptag/Ping_Ufo_Assignment/blob/master/results.png?raw=true)
 
 ## Evaluation
 As we expected from our initial statement, the further away the physical server was located, the higher the ping times was. 
