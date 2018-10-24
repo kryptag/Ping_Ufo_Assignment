@@ -38,6 +38,7 @@ public class Main {
             }
             System.out.println("Time from this server: " + ip +interestingline);
         }
+        
     }
 
 }
